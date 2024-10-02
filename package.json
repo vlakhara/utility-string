@@ -1,0 +1,16 @@
+{
+  "name": "utility-string",
+  "version": "1.0.1",
+  "description": "A utility library for string manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlakhara/string-utils.git"
+  },
+  "keywords": ["string", "utilities", "string-manipulation"],
+  "author": "Vipul Lakhara",
+  "license": "MIT"
+}
